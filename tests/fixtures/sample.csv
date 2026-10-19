@@ -1,0 +1,5 @@
+ticket_id,title,station,reported_by,opened_at,closed_at
+FOG-0001,BadgeBeacon rejects every badge at the side door,Net Loft,Teodor Quill,2026-03-14T16:00:00Z,2026-03-14T11:15:00-07:00
+FOG-0002,"Projector in B12 shows only purple, again",Net Loft,Teodor Quill,2026-02-03T09:00:00-08:00,2026-02-03T09:09:00-08:00
+FOG-0003,Tide gauge upload stuck at 99%,Skerry Point Light,Juniper Achebe-Lund,2026-06-02T10:00:00+01:00,2026-06-02T09:45:00Z
+FOG-0004,Kettle trips the breaker during the lantern test,Skerry Point Light,Juniper Achebe-Lund,2026-07-20T08:30:00Z,2026-07-20T09:15:00Z

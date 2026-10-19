@@ -1,0 +1,43 @@
+ticket_id,title,station,reported_by,opened_at,closed_at
+FOG-1128,Monitor flickers when the kettle boils,Merrow Maritime Museum,Delphine Marrow,2026-03-31T14:54:00-07:00,2026-03-31T19:47:00-07:00
+FOG-1119,Museum audio guide stuck on gallery 4,Merrow Maritime Museum,Delphine Marrow,2026-09-12T14:27:00-07:00,2026-09-13T01:42:00Z
+FOG-1122,"Data logger clock drifted, again",Old Merrow Light,Juniper Achebe-Lund,2026-03-26T21:01:00Z,2026-03-26T17:36:00-07:00
+FOG-1123,Volunteer sign-up form loses the last field,Net Loft,Ingrid Abernathy-Sol,2026-09-01T13:06:00-07:00,2026-09-01T15:05:00-07:00
+FOG-1112,Calendar invites arrive twice,Old Merrow Light,Hollis Nakamura-Reyes,2026-05-30T16:38:00Z,2026-05-31T01:20:00Z
+FOG-1126,Weather station reports snow in August,Merrow Maritime Museum,Delphine Marrow,2026-06-19T16:53:00-07:00,2026-06-19T23:40:00-07:00
+FOG-1103,Kettle at Skerry Point trips the breaker,Skerry Point Light,Saoirse Patel-Dunn,2026-09-06T18:44:00Z,2026-09-06T21:05:00+01:00
+FOG-1135,Survey tablet will not charge,Old Merrow Light,Hollis Nakamura-Reyes,2026-04-23T23:36:00Z,2026-04-23T21:01:00-07:00
+FOG-1127,Shuttle bus booking page times out,Net Loft,Rafferty Imani,2026-03-02T09:16:00-08:00,2026-03-02T19:01:00Z
+FOG-1102,Projector in B12 shows only purple,Net Loft,Rafferty Imani,2026-02-16T11:02:00-08:00,2026-02-16T11:35:00-08:00
+FOG-1109,Wi-Fi at Gannet Rock drops when the fog horn sounds,Gannet Rock Light,Hollis Nakamura-Reyes,2026-08-22T18:08:00Z,2026-08-22T14:23:00-07:00
+FOG-1131,Lost access to the expenses folder,Net Loft,Teodor Quill,2026-05-16T08:42:00-07:00,2026-05-16T17:39:00Z
+FOG-1129,Shared calendar for the Boathouse is read-only,Net Loft,Kofi Ballester,2026-07-23T15:56:00-07:00,2026-07-23T23:11:00Z
+FOG-1132,Keyboard in reception types double letters,Net Loft,Marisol Okafor-Venn,2026-07-19T16:27:00-07:00,2026-07-19T18:00:00-07:00
+FOG-1116,Old Merrow Light radio crackles on channel 16,Old Merrow Light,Juniper Achebe-Lund,2026-04-06T23:35:00Z,2026-04-07T05:41:00Z
+FOG-1130,Battery report for buoy 3 is blank,Skerry Point Light,Juniper Achebe-Lund,2026-02-21T20:04:00Z,2026-02-21T14:39:00-08:00
+FOG-1113,Lighthouse webcam frozen on a seagull,Skerry Point Light,Juniper Achebe-Lund,2026-07-01T19:37:00Z,2026-07-02T01:50:00+01:00
+FOG-1133,Slack notifications arrive after the meeting,Old Merrow Light,Hollis Nakamura-Reyes,2026-05-08T17:55:00Z,2026-05-08T21:10:00+01:00
+FOG-1136,Payroll export has an extra column,Net Loft,Wren Takahashi-Moore,2026-01-26T07:56:00-08:00,2026-01-26T15:14:00-08:00
+FOG-1140,Field laptop asks to update during a storm,Net Loft,Wren Takahashi-Moore,2026-02-04T07:20:00-08:00,2026-02-04T09:16:00-08:00
+FOG-1115,Spreadsheet macro asks for a licence key,Merrow Maritime Museum,Delphine Marrow,2026-07-18T09:25:00-07:00,2026-07-18T18:40:00+01:00
+FOG-1101,BadgeBeacon rejects every badge on Tuesdays,Net Loft,Ingrid Abernathy-Sol,2026-01-08T10:27:00-08:00,2026-01-08T14:33:00-08:00
+FOG-1111,"Printer in the Net Loft lobby jams on A4, likes A5",Net Loft,Osei Lindqvist,2026-04-16T09:41:00-07:00,2026-04-16T17:55:00-07:00
+FOG-1134,Lantern room camera points at the floor,Old Merrow Light,Juniper Achebe-Lund,2026-05-28T16:49:00Z,2026-05-28T16:04:00-07:00
+FOG-1114,BadgeBeacon door log shows Pemberton entering at 3am,Merrow Maritime Museum,Delphine Marrow,2026-04-26T12:01:00-07:00,2026-04-26T17:16:00-07:00
+FOG-1137,Gannet Rock solar controller offline,Gannet Rock Light,Saoirse Patel-Dunn,2026-03-02T20:51:00Z,2026-03-02T21:12:00+00:00
+FOG-1117,Phone extension 214 rings in the Boathouse,Net Loft,Priya Halloran,2026-03-06T15:59:00-08:00,2026-03-06T21:19:00-08:00
+FOG-1120,VPN disconnects every 11 minutes,Gannet Rock Light,Saoirse Patel-Dunn,2026-04-20T21:48:00Z,2026-04-21T00:05:00+01:00
+FOG-1106,"Shared drive asks for a password, then another",Gannet Rock Light,Saoirse Patel-Dunn,2026-02-09T16:36:00Z,2026-02-10T01:13:00+00:00
+FOG-1138,Newsletter images will not load,Net Loft,Osei Lindqvist,2026-09-16T10:13:00-07:00,2026-09-16T12:34:00-07:00
+FOG-1110,Laptop fan sounds like a gull,Merrow Maritime Museum,Delphine Marrow,2026-01-24T11:51:00-08:00,2026-01-25T01:12:00Z
+FOG-1104,Tide gauge upload stuck at 99%,Old Merrow Light,Juniper Achebe-Lund,2026-05-13T17:34:00Z,2026-05-14T01:18:00+01:00
+FOG-1142,Intern account locked after a very enthusiastic password,Net Loft,Ingrid Abernathy-Sol,2026-07-11T15:39:00-07:00,2026-07-11T20:38:00-07:00
+FOG-1108,Chart Room screen will not wake up,Net Loft,Teodor Quill,2026-05-02T09:51:00-07:00,2026-05-02T20:19:00+01:00
+FOG-1124,Desk phone shows the wrong time zone,Net Loft,Kofi Ballester,2026-03-25T11:28:00-07:00,2026-03-25T22:49:00+00:00
+FOG-1107,Buoy 5 telemetry arrives an hour late,Gannet Rock Light,Hollis Nakamura-Reyes,2026-01-20T21:20:00Z,2026-01-20T22:07:00-08:00
+FOG-1118,Sensor firmware update failed halfway,Old Merrow Light,Juniper Achebe-Lund,2026-07-31T21:19:00Z,2026-07-31T21:13:00-07:00
+FOG-1139,Museum ticket scanner reads every ticket as child,Merrow Maritime Museum,Delphine Marrow,2026-06-27T13:26:00-07:00,2026-06-27T20:41:00-07:00
+FOG-1125,Backup drive in the server cupboard is beeping,Old Merrow Light,Juniper Achebe-Lund,2026-04-17T23:03:00Z,2026-04-18T00:00:00Z
+FOG-1141,"Antenna alarm at Skerry Point, no antenna fault",Skerry Point Light,Juniper Achebe-Lund,2026-02-13T19:23:00Z,2026-02-13T14:08:00-08:00
+FOG-1105,Museum till prints receipts in Latin,Merrow Maritime Museum,Delphine Marrow,2026-08-15T14:25:00-07:00,2026-08-15T17:50:00-07:00
+FOG-1121,Email signature shows the old logo,Old Merrow Light,Juniper Achebe-Lund,2026-08-16T20:44:00Z,2026-08-16T13:53:00-07:00
